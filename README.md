@@ -1,2 +1,2 @@
 # Python_django1
-Web page based on new trendy wooden furniture.
+Python(django) Fullstack Web Developement based on new trendy wooden furniture.
